@@ -1,0 +1,10 @@
+E:\programming\C#\PuyoPuyo\PuyoPuyo\obj\Debug\PuyoPuyo.csprojAssemblyReference.cache
+E:\programming\C#\PuyoPuyo\PuyoPuyo\obj\Debug\PuyoPuyo.Properties.Resources.resources
+E:\programming\C#\PuyoPuyo\PuyoPuyo\obj\Debug\PuyoPuyo.csproj.GenerateResource.cache
+E:\programming\C#\PuyoPuyo\PuyoPuyo\obj\Debug\PuyoPuyo.csproj.CoreCompileInputs.cache
+E:\programming\C#\PuyoPuyo\PuyoPuyo\bin\Debug\PuyoPuyo.exe.config
+E:\programming\C#\PuyoPuyo\PuyoPuyo\bin\Debug\PuyoPuyo.exe
+E:\programming\C#\PuyoPuyo\PuyoPuyo\bin\Debug\PuyoPuyo.pdb
+E:\programming\C#\PuyoPuyo\PuyoPuyo\obj\Debug\PuyoPuyo.Form1.resources
+E:\programming\C#\PuyoPuyo\PuyoPuyo\obj\Debug\PuyoPuyo.exe
+E:\programming\C#\PuyoPuyo\PuyoPuyo\obj\Debug\PuyoPuyo.pdb
